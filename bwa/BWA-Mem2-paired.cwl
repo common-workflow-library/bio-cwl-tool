@@ -3,7 +3,7 @@ cwlVersion: v1.2
 class: Workflow
 
 label: |
-  map medium and long reads (> 100 bp) against reference genome
+  map medium and long reads (greater than 100 bp) against reference genome
 
 inputs:
   reference_genome:

@@ -9,6 +9,12 @@ inputs:
   mapped_reads:
     type: File
     format: [ edam:format_2572, edam:format_2573 ]  # BAM or SAM
+  reads_are_paired:
+    doc: |
+      If specified, libraries are assumed to contain paired-end reads.
+    type: boolean
+    inputBinding:
+      prefix: -p
 
 baseCommand: featureCounts
 
