@@ -26,7 +26,7 @@ outputs:
 
 hints:
   DockerRequirement:
-    dockerPull: quay.io/biocontainers/subread:1.5.0p3--0
+    dockerPull: quay.io/biocontainers/subread:2.0.6--he4a0461_0
   SoftwareRequirement:
     packages:
       featureCounts:
