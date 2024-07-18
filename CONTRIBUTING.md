@@ -1,6 +1,6 @@
 ## Styleguide
 
-See also https://www.commonwl.org/user_guide/rec-practices/
+See also <https://www.commonwl.org/user_guide/topics/best-practices.html>
 
 ## Code of Conduct
 
